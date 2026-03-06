@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "tiny-ray-caster", "tiny-ray-caster.fsproj", "{9BE2B32E-27EC-4D48-87DA-EF9FF2634DB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tiny-ray-caster-cs", "tiny-ray-caster-cs\tiny-ray-caster-cs.csproj", "{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{9BE2B32E-27EC-4D48-87DA-EF9FF2634DB7}.Release|x64.Build.0 = Release|Any CPU
 		{9BE2B32E-27EC-4D48-87DA-EF9FF2634DB7}.Release|x86.ActiveCfg = Release|Any CPU
 		{9BE2B32E-27EC-4D48-87DA-EF9FF2634DB7}.Release|x86.Build.0 = Release|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Debug|x64.Build.0 = Debug|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Debug|x86.Build.0 = Debug|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Release|x64.ActiveCfg = Release|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Release|x64.Build.0 = Release|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Release|x86.ActiveCfg = Release|Any CPU
+		{FEE218DE-699B-4BB9-A2CD-F2C4458D9DA6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
